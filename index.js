@@ -41,7 +41,7 @@ function PrepareBot(client)
     client.login(botToken);
 }
 
-//call of PrepareBot function.
+//call of the PrepareBot function.
 PrepareBot(client);
 
 //on client message event.
